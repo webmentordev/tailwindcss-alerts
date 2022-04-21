@@ -2,6 +2,6 @@
 
 * You must have Nodejs installed
 * After Downloading The Project, Run Following Commands
-    . npm install tailwindcss -D
-    . npm run watch
+   <br> . npm install tailwindcss -D
+   <br> . npm run watch
 * You can install Live Server.
